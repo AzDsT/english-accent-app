@@ -18,7 +18,6 @@ This Streamlit app accepts a public video URL, extracts the audio, identifies th
 2. Open your terminal in the project folder.
 3. Install the required dependencies:
 
-```bash
 pip install -r requirements.txt
 streamlit run app.py
 
