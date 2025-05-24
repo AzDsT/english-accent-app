@@ -19,10 +19,10 @@ This Streamlit app accepts a public video URL, extracts the audio, identifies th
 3. Install the required dependencies:
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
-
 ## 📺 Demo & Test
+
 - 🎥 [Watch the Loom Video Walkthrough](https://www.loom.com/share/a0e1d6c133ee41daa80196b638432404?sid=16597d24-1b15-4cdc-a959-fa687d2bb203)
 - 🔗 [Sample MP4 Test Video](https://files.catbox.moe/5oteou.mp4)
-
