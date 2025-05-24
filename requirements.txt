@@ -1,0 +1,10 @@
+speechbrain
+soundfile
+matplotlib
+streamlit
+requests
+openai-whisper
+transformers
+moviepy
+pydub
+
